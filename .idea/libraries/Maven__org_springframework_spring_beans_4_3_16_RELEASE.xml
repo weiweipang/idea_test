@@ -1,0 +1,82 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-beans:4.3.16.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/" />
+      <root url="file://D:/my_javaee/sources/spring-framework" />
+      <root url="file://D:/my_javaee/sources/spring-framework/gradle/jdiff" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-aop/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-aop/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-aspects/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-aspects/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-beans/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/xml" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-beans/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-indexer/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-indexer/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-support/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-support/src/main/java/org/springframework/ui/freemarker" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context-support/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-context/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-core/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-core/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-expression/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-expression/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-instrument/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jcl/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jdbc/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/simple" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jdbc/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jms/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jms/src/main/java/org/springframework/jms/core/support" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-jms/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-messaging/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/tcp" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/tcp/reactor" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-messaging/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-orm/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-orm/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/config" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/jaxb" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/jibx" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/mime" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/support" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/main/java/org/springframework/oxm/xstream" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-oxm/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-test/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-test/src/main/java/org/springframework/mock/env" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-test/src/main/java/org/springframework/mock/web/reactive/function/server" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-test/src/main/java/org/springframework/mock/web/server" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-test/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-tx/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-tx/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-web/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-web/src/main/java/org/springframework/web/bind/support" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-web/src/main/java/org/springframework/web/jsf" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-web/src/main/java/org/springframework/web/jsf/el" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-web/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-webflux/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-webflux/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-webmvc/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-webmvc/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/client" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/client/jetty" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/client/standard" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/config" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/config/annotation" />
+      <root url="file://D:/my_javaee/sources/spring-framework/spring-websocket/src/test/java" />
+      <root url="file://D:/my_javaee/sources/spring-framework/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

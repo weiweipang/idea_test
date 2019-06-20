@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--引入JQUERY-->
+    <script type="text/javascript" src="js/jquery-3.1.4.min.js"></script>
+    <!--引入JS-->
+    <script type="text/javascript" src="js/verify.min.js"></script>
+    <!--引入CSS-->
+    <link rel="stylesheet" type="text/css" href="css/verify.css"/>
+
+
+    <script>
+        $(function () {
+            $('#mpanel1').codeVerify({
+
+                //常规验证码type=1， 运算验证码type=2
+                type: 1,
+
+                //验证码宽度
+                width: '400px',
+
+                //验证码高度
+                height: '50px',
+
+                //......更多参数设置请查阅文档
+                codeLength:4,
+
+                //提交按钮的id名称
+                btnId: 'check-btn',
+
+                //验证成功以后的回调
+                success: function () {
+                    alert('验证匹配！');
+                },
+                //验证失败以后的回调
+                error:function () {
+                    alert('验证失败！');
+                }
+
+            });
+        })
+
+
+    </script>
+</head>
+<body>
+
+<div id="mpanel1">
+</div>
+
+<!--确定的按钮，id名称在初始化时使用-->
+<button id="check-btn" class="verify-btn">确定</button>
+
+
+</body>
+</html>

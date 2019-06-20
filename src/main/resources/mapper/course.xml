@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="cn.ssm.dao.CourseDao">
+    <resultMap id="course" type="cn.ssm.pojo.Student">
+        <id property="id" column="id" javaType="int"/>
+        <result property="name" column="name" javaType="string"/>
+        <result property="age" column="age" javaType="int"/>
+        <collection property="courses" ofType="cn.ssm.pojo.Course">
+            <id property="c_id" column="c_id" javaType="int"/>
+            <result property="c_name" column="c_name" javaType="string"/>
+        </collection>
+    </resultMap>
+    <!--一对多的查询：一个学生选了多门课程-->
+    <select id="getStudentInfo" resultMap="course">
+        SELECT s.id,s.name,s.age,c.id c_id,c.c_name FROM student s,course c WHERE s.c_id=c.id AND s.name='aaa'
+    </select>
+
+</mapper>
